@@ -22,9 +22,14 @@
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  1  | Yo como borracho, quiero que el dispositivo me proporcione una cuba al precionar un solo botón, para continuar la peda | Debe, Puede, Podría hacerse, NO | 5 días | El borracho deposita su baso en el deposito y presiona el botón "SERVIR" y este entrega una cuba | Gus |
-|  2  |                     |           |            |               |             |
-|  3  |                     |           |            |               |             |
+|  HU01  | Yo como usuario requiero saber la distancia a la que están los objetos cercanos para tener precaución al moverme en mi entorno. | Debe, Puede, Podría hacerse, NO |  |  |  |
+|  HU02  | Yo como usuario requiero tener un apoyo auditivo para que me sirva de apoyo al momento de estar en contacto cercado de objetos. |  |  |  | |
+|  HU03  | Yo como cuidador del usuario, requiero de una cámara donde pueda ver lo mismo que la persona de la que estoy encargada, para poder apoyarla incluso a la distancia. |  |  |  |  |
+|  HU04  | Yo como usuario requiero poder medir la humedad de mi persona para tener una correcto monitoreo. | | | | |
+|  HU05  | Yo como usuario requiero que la camisa sea capaz de medir mi temperatura corporal para llevar un control de esta. | | | | |
+|  HU06  | Yo como usuario requiero que la camisa pueda monitorear las pulsaciones de mi corazón para llevar un monitoreo de mi ritmo cardiaco. | | | | |
+|  HU07  | Yo como usuario requiero una interfaz amigable, para poder adaptarme a  mi condición. | | | | |
+|  HU08  | | | | | |
 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
