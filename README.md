@@ -4,8 +4,8 @@
 ## Integrantes
 - Luis Gustavo García Carrillo
 - Diego Torres Pérez
-- Denisse 
-- Fatima
+- Karla Denisse Agilar Castillo
+- Fatima Natalia Ruiz Rivera
 
 # Hardware
 | No. | Componente | Descripción | Imagen | Costo | Cantidad |
