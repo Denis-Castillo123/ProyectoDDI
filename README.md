@@ -28,7 +28,7 @@
 |  HU04  | Yo como usuario requiero poder medir la humedad de mi persona para tener una correcto monitoreo. | | | | |
 |  HU05  | Yo como usuario requiero que la camisa sea capaz de medir mi temperatura corporal para llevar un control de esta. | | | | |
 |  HU06  | Yo como usuario requiero que la camisa pueda monitorear las pulsaciones de mi corazón para llevar un monitoreo de mi ritmo cardiaco. | | | | |
-|  HU07  | Yo como usuario requiero una interfaz amigable, para poder adaptarme a  mi condición. | | | | |
+|  HU07  | Yo como usuario requiero una interfaz amigable, para manejar correctamente el dispositivo . | | | | |
 |  HU08  | | | | | |
 
 ## Prototipo en dibujo
