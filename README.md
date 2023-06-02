@@ -1,16 +1,23 @@
-# ProjectDDI
+# Camisa inteligente
 ## Objetivo del proyecto
-
+Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través de de un dspositivo integrado en una prenda que pueda usar en su dia a dia.
 ## Integrantes
 - Luis Gustavo García Carrillo
 - Diego Torres Pérez
-- Karla Denisse Agilar Castillo
+- Karla Denisse Aguilar Castillo
 - Fatima Natalia Ruiz Rivera
 
 # Hardware
 | No. | Componente | Descripción | Imagen | Costo | Cantidad |
 |-----|------------|-------------|--------|-------|----------|
 |1|Raspberry Pi 4|Microcompurador reciente|<img src="https://m.media-amazon.com/images/I/41cn6diLE0L.jpg" width="200px">|$2500.00|1| 
+|2|esp32|Pantalla pequeña|
+|3|esp32cam|Camara portatil|
+|4|Sensor temperatura y humedad|Sensor con doble funcionalidad para medir la temperatura y la humedad del cuerpo|
+|5|Buzzer|Actuador para alertar al usuario|
+|6|Sensor de distancia| Sensor para medir la distancia de los objetos|
+|7|Camisa|Prenda que el usuario pueda usar|
+|8|Sensor de pulso cardiaco|Sensor para medir el ritmo cardiaco del usuario|
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
