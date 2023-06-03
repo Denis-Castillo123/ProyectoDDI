@@ -11,14 +11,14 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 | No. | Componente | Descripción | Imagen | Costo | Cantidad |
 |-----|------------|-------------|--------|-------|----------|
 |1|Raspberry Pi 4|Microcompurador reciente|<img src="https://m.media-amazon.com/images/I/41cn6diLE0L.jpg" width="200px">|$2500.00|1| 
-|2|esp32|Pantalla pequeña|<img src="https://http2.mlstatic.com/D_NQ_NP_839782-CBT69011055664_042023-O.webp" width="200px">| $ | 1 |
-|3|esp32cam|Camara portatil|<img src="https://www.makielectronic.com/fotos/grandes/esp32-cam.jpg" width="200px">| $ | 1 |
-|4|Sensor temperatura y humedad|Sensor con doble funcionalidad para medir la temperatura y la humedad del cuerpo|<img src="https://www.automatismos-mdq.com.ar/blog/wp-content/uploads/2020/11/sensor-yl-38.jpg" width="200px">| $ | 1 |
-|5|Buzzer|Actuador para alertar al usuario|<img src="https://www.flyrobo.in/image/cache/catalog/product2/3.5-5.5v-standard-active-buzzer-module-for-arduino-1024x1024.JPG" width="200px">| $ | 1 |
-|6| Sensor ultrasonico| Sensor para medir la distancia de los objetos | <img src="https://www.steren.com.mx/media/catalog/product/cache/b69086f136192bea7a4d681a8eaf533d/image/1945948ab/sensor-ultrasonico.jpg" width="200px">  | $ | 1 | 
-|7|Camisa|Prenda que el usuario pueda usar| <img src="https://ropalaboralonzor.com/5156-large_default/camiseta-manga-larga-unisex-arrow.jpg" width="200px"> | $ | 1 |
-|8|Sensor de pulso cardiaco|Sensor para medir el ritmo cardiaco del usuario| <img src="https://cdn.shopify.com/s/files/1/0549/1166/4241/products/imagen_2022-12-29_105454198.png?v=1672332896" width="200px"> | $ | 1 |
-|9|Botón | Botón para detener el Buzzer | <img src="https://megatronica.cc/wp-content/uploads/2022/04/PULSADOR-PEQUENIO-4-PINES-9.jpg" width="200px"> | $ | 1 |
+|2|ESP32 LVGL|ESP32 con pantalla táctial integrada|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/e9bc176f-d8a6-4b13-ada8-a6d88dc48c10" width="200px">|$168.53|1| 
+|3|ESP32Cam|ESP32 con Camára integrada|<img src="https://hetpro-store.com/images/detailed/17/ESP32-CAM-imagen2.jpg" width="200px">|$172.47|1|
+|4|Sensor temperatura y humedad|Sensor con doble funcionalidad para medir la temperatura y la humedad del cuerpo|<img src="https://m.media-amazon.com/images/I/415HFTvEImL._AC_SX679_.jpg" width="200px">|$69.00|1| 
+|5|Buzzer|Actuador para alertar al usuario|<img src="https://vystronic.com/wp-content/uploads/2020/10/piezo-buzzer-324x324.jpg" width="200px">|$50.00|1|
+|6|Sensor de distancia| Sensor para medir la distancia de los objetos|<img src="https://www.makercreativo.com/store/wp-content/uploads/2017/06/Sensor_ultrasonico_HCSR04_1.jpg" width="200px">|$80.00|1|
+|7|Camisa|Prenda que el usuario pueda usar|<img src="https://ropalaboralonzor.com/5156-large_default/camiseta-manga-larga-unisex-arrow.jpg" width="200px">|$250.00|1|
+|8|Sensor de pulso cardiaco|Sensor para medir el ritmo cardiaco del usuario|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/b3e1ecca-dcb6-49aa-b25b-6387c3566d5e" width="200px">|$150.83|1|
+|9|Botón | Botón para detener el Buzzer |<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/f0fee56c-7416-413b-9c3c-3da9caa76004" width="200px">|$89.00|1|
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
