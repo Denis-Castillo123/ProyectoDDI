@@ -73,8 +73,5 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/6dc639d3-4a72-4cef-a499-fc61fcc50229" width="500px">
 </div>
 
-
-
-
-
-
+## Beneficiario
+Rebeca Rivera Hernandez
