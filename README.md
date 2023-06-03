@@ -21,12 +21,15 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 |9|Botón | Botón para detener el Buzzer |<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/f0fee56c-7416-413b-9c3c-3da9caa76004" width="200px">|$89.00|1|
 
 ## Tabla de Software utilizado
+<div align="center">
+  
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
 | 01 | Fritzing | 0.9.3 | Diseño de circuitos |
 | 02 | Tinkerd Card | N/A | diseño 3D, electrónica y codificación|
 | 03 | Micro Python | 3.11.3 | lenguaje de programación |
 | 04 | Github | N/A | plataforma de alojamiento |
+</div>
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
@@ -42,7 +45,7 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 
 ## Prototipo en dibujo
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/86625096/99b5ea54-2a02-4b7d-ac25-08531bf3159f" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/86625096/728ac81f-14f9-4b43-a1b9-748ddd3be6f5" width="500px">
 </div>
 
 ## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes Pecho
