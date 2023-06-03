@@ -1,6 +1,6 @@
 # Camisa inteligente
 ## Objetivo del proyecto
-Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través de un dispositivo integrado en una prenda que pueda usar en su dia a dia.
+Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través de un dispositivo integrado en una prenda que pueda usar en su día a día.
 ## Integrantes
 - Luis Gustavo García Carrillo
 - Diego Torres Pérez
@@ -10,38 +10,38 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 # Hardware
 | No. | Componente | Descripción | Imagen | Costo | Cantidad |
 |-----|------------|-------------|--------|-------|----------|
-|1|Raspberry Pi 4|Microcompurador reciente|<img src="https://m.media-amazon.com/images/I/41cn6diLE0L.jpg" width="200px">|$2500.00|1| 
-|2|ESP32 LVGL|ESP32 con pantalla táctial integrada|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/e9bc176f-d8a6-4b13-ada8-a6d88dc48c10" width="200px">|$168.53|1| 
-|3|ESP32Cam|ESP32 con Camára integrada|<img src="https://hetpro-store.com/images/detailed/17/ESP32-CAM-imagen2.jpg" width="200px">|$172.47|1|
+|1|Raspberry Pi 4|Microcomputador reciente|<img src="https://m.media-amazon.com/images/I/41cn6diLE0L.jpg" width="200px">|$2500.00|1| 
+|2|ESP32 LVGL|ESP32 con pantalla táctil integrada|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/e9bc176f-d8a6-4b13-ada8-a6d88dc48c10" width="200px">|$168.53|1| 
+|3|ESP32Cam|ESP32 con cámara integrada|<img src="https://hetpro-store.com/images/detailed/17/ESP32-CAM-imagen2.jpg" width="200px">|$172.47|1|
 |4|Sensor temperatura y humedad|Sensor con doble funcionalidad para medir la temperatura y la humedad del cuerpo|<img src="https://m.media-amazon.com/images/I/415HFTvEImL._AC_SX679_.jpg" width="200px">|$69.00|1| 
 |5|Buzzer|Actuador para alertar al usuario|<img src="https://vystronic.com/wp-content/uploads/2020/10/piezo-buzzer-324x324.jpg" width="200px">|$50.00|1|
 |6|Sensor de distancia| Sensor para medir la distancia de los objetos|<img src="https://www.makercreativo.com/store/wp-content/uploads/2017/06/Sensor_ultrasonico_HCSR04_1.jpg" width="200px">|$80.00|1|
 |7|Camisa|Prenda que el usuario pueda usar|<img src="https://ropalaboralonzor.com/5156-large_default/camiseta-manga-larga-unisex-arrow.jpg" width="200px">|$250.00|1|
-|8|Sensor de pulso cardiaco|Sensor para medir el ritmo cardiaco del usuario|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/b3e1ecca-dcb6-49aa-b25b-6387c3566d5e" width="200px">|$150.83|1|
-|9|Botón | Botón para detener el Buzzer |<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/f0fee56c-7416-413b-9c3c-3da9caa76004" width="200px">|$89.00|1|
+|8|Sensor de pulso cardíaco|Sensor para medir el ritmo cardíaco del usuario|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/b3e1ecca-dcb6-49aa-b25b-6387c3566d5e" width="200px">|$150.83|1|
+|9|Pulsador| Botón para detener el sonido del Buzzer |<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/f0fee56c-7416-413b-9c3c-3da9caa76004" width="200px">|$89.00|1|
 
 ## Tabla de Software utilizado
 <div align="center">
   
-| Id | Software | Version | Tipo |
+| ID | Software | Versión | Tipo |
 |----|----------|---------|------|
 | 01 | Fritzing | 0.9.3 | Diseño de circuitos |
-| 02 | Tinkerd Card | N/A | diseño 3D, electrónica y codificación|
-| 03 | Micro Python | 3.11.3 | lenguaje de programación |
-| 04 | Github | N/A | plataforma de alojamiento |
+| 02 | Tinkerd Card | N/A | Diseño 3D, electrónica y codificación|
+| 03 | Micro Python | 3.11.3 | Lenguaje de programación |
+| 04 | Github | N/A | Plataforma de alojamiento |
 </div>
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  HU01  | Yo como usuario requiero saber la distancia a la que están los objetos cercanos para tener precaución al moverme en mi entorno. | Debe | 50/100 | El usuario tendrá conocimiento de si un objeto se encuentra cerca de el por me dio de un sensor ultrasonico. | Denisse  |
-|  HU02  | Yo como usuario requiero tener un apoyo auditivo para que me sirva de apoyo al momento de estar en contacto cercado de objetos. | Debe | 30/100 | El usuario tendrá conocimiento de si un objeto se encuentra cerca de el por me dio de un sonido transmitido por el buzzer que sonará más rápido cuando el usuario más se aproxime. | Fatima |
-|  HU03  | Yo como usuario, requiero de una cámara que trasmita a la pantalla, para poder ver lo que esta lejos de mi y evitar posibles accidentes | Puede | 100/100 | El usuario podrá observar los objetos que no logra visualizar por medio de un dispositivo que le transmite la imagen y le permite su entorno más cerca. | Diego |
-|  HU04  | Yo como usuario requiero poder medir la humedad de mi persona para tener una correcto monitoreo. | Debe | 70/100 | El usuario podrá medir la humedad por medio de un sensor y este datos podrá ser visualizado en la pantalla del dispositivo. | Denisse |
-|  HU05  | Yo como usuario requiero que la camisa sea capaz de medir mi temperatura corporal para llevar un control de esta. | Debe | 70/100 | El usuario podrá medir la temperatura por medio de un sensor y este dato podrá ser visualizado en la pantalla del dispositivo. |Luis Gustavo|
-|  HU06  | Yo como usuario requiero que la camisa pueda monitorear las pulsaciones de mi corazón para llevar un monitoreo de mi ritmo cardiaco. | Puede | 80/100 | Todo el mecanismo será implementado en una camisa que le permita tener mejor acceso y control sobre sus estados. | Fatima |
-|  HU07  | Yo como usuario requiero una interfaz amigable, para manejar correctamente el dispositivo . | Podria hacerse | 100/100 | Se podrá manejar el estado de su cuerpo y acciones del dispositivo desde una pantalla ESP32. |Luis Gustavo|
-|  HU08  | Yo como usuario requiero poder detener el sonido de alerta para que no llegue a ser molesto | Debe | 30/100 | Se podrá detener la alerta del un objeto cerca por medio de un botón integrado en el dispositivo de la muñeca. |Diego|
+|  HU01  | Yo como usuario, requiero saber la distancia a la que están los objetos cercanos para tenerme precaución al moverme en mi entorno. | Debe | 50/100 | El usuario tendrá conocimiento de si un objeto se encuentra cerca de él por medio de un sensor ultrasónico. | Denisse  |
+|  HU02  | Yo como usuario, requiero tener un apoyo auditivo para que me sirva de ayuda al momento de estar en contacto cercano con otros objetos. | Debe | 30/100 | El usuario tendrá conocimiento de si un objeto se encuentra cerca de él por medio de un sonido transmitido por el buzzer, que sonará más rápido a medida que el usuario más se aproxime. | Fatima |
+|  HU03  | Yo como usuario, requiero de una cámara que trasmita la imagen a la pantalla, para poder ver lo que esta lejos de mi y evitar posibles accidentes. | Puede | 100/100 | El usuario podrá observar los objetos que no logra visualizar nítidamente por medio de un dispositivo que le transmita la imagen a la pantalla. | Diego |
+|  HU04  | Yo como usuario, requiero poder medir la humedad de mi persona para tener un correcto monitoreo. | Debe | 70/100 | El usuario podrá medir la humedad por medio de un sensor y este dato podrá ser visualizado en la pantalla del dispositivo. | Denisse |
+|  HU05  | Yo como usuario, requiero que la camisa integre un sensor que sea capaz de medir mi temperatura corporal para llevar un monitoreo de la misma. | Debe | 70/100 | El usuario podrá medir la temperatura por medio de un sensor y este dato podrá ser visualizado en la pantalla del dispositivo. |Luis Gustavo|
+|  HU06  | Yo como usuario, requiero que la camisa pueda monitorear las pulsaciones de mi corazón para llevar un monitoreo de mi ritmo cardíaco. | Puede | 80/100 | El sensor será integrado en una camisa que le permita tener mejor acceso y control sobre su ritmo cardíaco, al procesar los datos recibidos del pulsómetro. | Fatima |
+|  HU07  | Yo como usuario, requiero una interfaz amigable para manejar intuitivamente el dispositivo. | Podria hacerse | 100/100 | Se podrá manejar el estado de su cuerpo y acciones del dispositivo desde una pantalla ESP32. |Luis Gustavo|
+|  HU08  | Yo como usuario, requiero poder detener el sonido de alerta para que no llegue a ser molesto.| Debe | 30/100 | Se podrá detener la alerta de un objeto cercano por medio de un botón integrado en el dispositivo de la muñeca. |Diego|
 
 ## Prototipo en dibujo
 <div align="center">
