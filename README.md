@@ -42,6 +42,12 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
 
-## Placa PCB
+## Prototipo en Fitzing y PCB del Prototipo componentes Pecho
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/90db7be4-1631-4bbb-a28c-d960ddf96319)" width="500px">
+<img src="(https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/f9a63fa0-db97-4062-911b-696d7b4917ac)" width="500px">
+
+## Prototipo en Fitzing y PCB del Prototipo componentes Mano
+
+
 
 ## Prototipo 3D 
