@@ -18,6 +18,7 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 |6|Sensor de distancia| Sensor para medir la distancia de los objetos|
 |7|Camisa|Prenda que el usuario pueda usar|
 |8|Sensor de pulso cardiaco|Sensor para medir el ritmo cardiaco del usuario|
+|9|Botón | Botón para detener el Buzzer |
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
