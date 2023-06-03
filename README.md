@@ -41,7 +41,7 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 |  HU05  | Yo como usuario requiero que la camisa sea capaz de medir mi temperatura corporal para llevar un control de esta. | Debe | 70/100 | El usuario podrá medir la temperatura por medio de un sensor y este dato podrá ser visualizado en la pantalla del dispositivo. |Luis Gustavo|
 |  HU06  | Yo como usuario requiero que la camisa pueda monitorear las pulsaciones de mi corazón para llevar un monitoreo de mi ritmo cardiaco. | Puede | 80/100 | Todo el mecanismo será implementado en una camisa que le permita tener mejor acceso y control sobre sus estados. | Fatima |
 |  HU07  | Yo como usuario requiero una interfaz amigable, para manejar correctamente el dispositivo . | Podria hacerse | 100/100 | Se podrá manejar el estado de su cuerpo y acciones del dispositivo desde una pantalla ESP32. |Luis Gustavo|
-|  HU08  | Yo como usuario requiero poder detener el sonido de alerta para que llegue a ser molesto | Debe | 30/100 | Se podrá detener la alerta del un objeto cerca por medio de un botón integrado en el dispositivo de la muñeca. |Diego|
+|  HU08  | Yo como usuario requiero poder detener el sonido de alerta para que no llegue a ser molesto | Debe | 30/100 | Se podrá detener la alerta del un objeto cerca por medio de un botón integrado en el dispositivo de la muñeca. |Diego|
 
 ## Prototipo en dibujo
 <div align="center">
