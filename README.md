@@ -11,8 +11,8 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 | No. | Componente | Descripción | Imagen | Costo | Cantidad |
 |-----|------------|-------------|--------|-------|----------|
 |1|Raspberry Pi 4|Microcompurador reciente|<img src="https://m.media-amazon.com/images/I/41cn6diLE0L.jpg" width="200px">|$2500.00|1| 
-|2|esp32|Pantalla pequeña|
-|3|esp32cam|Camara portatil|
+|2|esp32|Pantalla pequeña||
+|3|esp32cam|Camara portatil||
 |4|Sensor temperatura y humedad|Sensor con doble funcionalidad para medir la temperatura y la humedad del cuerpo|
 |5|Buzzer|Actuador para alertar al usuario|
 |6|Sensor de distancia| Sensor para medir la distancia de los objetos|
@@ -23,9 +23,10 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
-|    |          |         |      |
-|    |          |         |      |
+| 01 | Fritzing | 0.9.3 | Diseño de circuitos |
+| 02 | Tinkerd Card | N/A | diseño 3D, electrónica y codificación|
+| 03 | Micro Python | 3.11.3 | lenguaje de programación |
+| 04 | Github | N/A | plataforma de alojamiento |
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
@@ -42,11 +43,16 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
 
-## Prototipo en Fitzing y PCB del Prototipo componentes Pecho
-<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/90db7be4-1631-4bbb-a28c-d960ddf96319)" width="500px">
-<img src="(https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/f9a63fa0-db97-4062-911b-696d7b4917ac)" width="500px">
+## Prototipo en Fitzing Circuito y PCB del Prototipo componentes Pecho
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/90db7be4-1631-4bbb-a28c-d960ddf96319" width="500px">
 
-## Prototipo en Fitzing y PCB del Prototipo componentes Mano
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/48e6a6db-3f4e-4f5a-bce8-8d065e2c7e91" width="500px">
+
+## Prototipo en Fitzing Circuito y PCB del Prototipo componentes Mano
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/c2a203fc-805f-46ad-bd42-0a952b2cc83c" width="500px">
+
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/95ce5c06-46f2-4b61-8d0f-9dc48c0aa510" width="500px">
+
 
 
 
