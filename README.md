@@ -74,4 +74,4 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
 </div>
 
 ## Beneficiario
-Rebeca Rivera Hernandez
+Ma. Angelica Castillo Sánchez
