@@ -1,6 +1,6 @@
 # Camisa inteligente
 ## Objetivo del proyecto
-Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través de de un dspositivo integrado en una prenda que pueda usar en su dia a dia.
+Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través de un dispositivo integrado en una prenda que pueda usar en su dia a dia.
 ## Integrantes
 - Luis Gustavo García Carrillo
 - Diego Torres Pérez
