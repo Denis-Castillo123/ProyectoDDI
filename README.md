@@ -25,10 +25,14 @@ Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través 
   
 | ID | Software | Versión | Tipo |
 |----|----------|---------|------|
-| 01 | Fritzing | 0.9.3 | Diseño de circuitos |
-| 02 | Tinkerd Card | N/A | Diseño 3D, electrónica y codificación|
-| 03 | Micro Python | 3.11.3 | Lenguaje de programación |
-| 04 | Github | N/A | Plataforma de alojamiento |
+| 01 | Fritzing | 0.9.3 | Diseño de circuitos (licencia libre) |
+| 02 | Tinkerd Card | N/A | Diseño 3D, electrónica y codificación(licencia libre) |
+| 03 | Micro Python | 3.11.3 | Lenguaje de programación (licencia libre) |
+| 04 | Github | N/A | Plataforma de alojamiento (licencia libre) |
+| 05 | PySerial | 3.4 | librería para el sensor de pulso cardiaco (licencia libre) |
+| 06 | Adafruit CircuitPython | 4.0 | librería para el sensor de temperatura y humedad del cuerpo humano |  
+| 07 | RPi.GPIO | 0022 | librería para sensor ultrasonico (licencia libre) |
+
 </div>
 
 ## Tabla de historias de usuario
