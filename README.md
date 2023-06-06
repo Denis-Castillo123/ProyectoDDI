@@ -1,6 +1,8 @@
 # Camisa inteligente
 ## Objetivo del proyecto
-Apoyar a personas con problemas visuales a mejorar su estilo de vida, a través de un dispositivo integrado en una prenda que pueda usar en su día a día.
+El objetivo principal de este proyecto es diseñar y desarrollar un dispositivo que pueda integrarse fácilmente a una prenda de vestir como una camiseta, con el propósito de ayudar a las personas con problemas visuales.
+
+El dispositivo consiste como una solución deseñada para ser incorporada a un prensa de vestir. Esto permitirá que las personas con problemas visuales puedan llevar el dispositivo con sigo en todo momento. El dispositivo integrado de la prenda estará equipado con las funciones de detección de obstáculos, detección de temperatura y humedad por medio de un entorno intuitivo.
 ## Integrantes
 - Luis Gustavo García Carrillo
 - Diego Torres Pérez
