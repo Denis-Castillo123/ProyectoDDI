@@ -15,7 +15,7 @@ Ma. Angelica Castillo Sánchez
 # Hardware
 | No. | Componente | Descripción | Imagen | Costo | Cantidad |
 |-----|------------|-------------|--------|-------|----------|
-|1|Raspberry Pi 4| computador de placa única (SBC, por sus siglas en inglés) desarrollado por la Fundación Raspberry Pi. Se trata de la cuarta generación de la serie de dispositivos Raspberry Pi, y ha sido diseñado para ser una plataforma versátil y de bajo costo para una amplia gama de aplicaciones.|<img src="https://m.media-amazon.com/images/I/41cn6diLE0L.jpg" width="200px">|$2500.00|1| 
+|1|Raspberry Pi 4| Computador de placa única (SBC, por sus siglas en inglés) desarrollado por la Fundación Raspberry Pi. Se trata de la cuarta generación de la serie de dispositivos Raspberry Pi, y ha sido diseñado para ser una plataforma versátil y de bajo costo para una amplia gama de aplicaciones.|<img src="https://m.media-amazon.com/images/I/41cn6diLE0L.jpg" width="200px">|$2500.00|1| 
 |2|ESP32 LVGL|Es una combinación del microcontrolador ESP32 y la biblioteca gráfica LVGL. El ESP32 es un microcontrolador de bajo consumo de energía y alto rendimiento desarrollado por Espressif Systems. LVGL es una biblioteca gráfica de código abierto diseñada para crear interfaces de usuario interactivas y atractivas en sistemas embebidos.|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/e9bc176f-d8a6-4b13-ada8-a6d88dc48c10" width="200px">|$168.53|1| 
 |3|ESP32Cam|Variante específica del ESP32 que incluye una cámara integrada. Combina las capacidades del ESP32 con la capacidad de capturar imágenes y vídeos en tiempo real.|<img src="https://hetpro-store.com/images/detailed/17/ESP32-CAM-imagen2.jpg" width="200px">|$172.47|1|
 |4|Sensor temperatura y humedad|Dispositivo que se utiliza para medir y monitorizar la temperatura y la humedad en un entorno determinado. Estos sensores son ampliamente utilizados en aplicaciones como sistemas de climatización, invernaderos, estaciones meteorológicas, sistemas de control ambiental, entre otros.|<img src="https://m.media-amazon.com/images/I/415HFTvEImL._AC_SX679_.jpg" width="200px">|$69.00|1| 
@@ -34,23 +34,24 @@ Ma. Angelica Castillo Sánchez
 | 02 | Tinkerd Card | N/A | Diseño 3D, electrónica y codificación(licencia libre) |
 | 03 | Micro Python | 3.11.3 | Lenguaje de programación (licencia libre) |
 | 04 | Github | N/A | Plataforma de alojamiento (licencia libre) |
-| 05 | PySerial | 3.4 | librería para el sensor de pulso cardiaco (licencia libre) |
-| 06 | Adafruit CircuitPython | 4.0 | librería para el sensor de temperatura y humedad del cuerpo humano |  
-| 07 | RPi.GPIO | 0022 | librería para sensor ultrasonico (licencia libre) |
+| 05 | PySerial | 3.4 | Librería para el sensor de pulso cardiaco (licencia libre) |
+| 06 | Adafruit CircuitPython | 4.0 | Librería para el sensor de temperatura y humedad del cuerpo humano |  
+| 07 | RPi.GPIO | 0022 | Librería para sensor ultrasonico (licencia libre) |
 
 </div>
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  HU01  | Yo como usuario, requiero saber la distancia a la que están los objetos cercanos para tenerme precaución al moverme en mi entorno. | Debe | 50/100 | El usuario tendrá conocimiento de si un objeto se encuentra cerca de él por medio de un sensor ultrasónico. | Denisse  |
-|  HU02  | Yo como usuario, requiero tener un apoyo auditivo para que me sirva de ayuda al momento de estar en contacto cercano con otros objetos. | Debe | 30/100 | El usuario tendrá conocimiento de si un objeto se encuentra cerca de él por medio de un sonido transmitido por el buzzer, que sonará más rápido a medida que el usuario más se aproxime. | Fatima |
-|  HU03  | Yo como usuario, requiero de una cámara que trasmita la imagen a la pantalla, para poder ver lo que esta lejos de mi y evitar posibles accidentes. | Puede | 100/100 | El usuario podrá observar los objetos que no logra visualizar nítidamente por medio de un dispositivo que le transmita la imagen a la pantalla. | Diego |
-|  HU04  | Yo como usuario, requiero poder medir la humedad de mi persona para tener un correcto monitoreo. | Debe | 70/100 | El usuario podrá medir la humedad por medio de un sensor y este dato podrá ser visualizado en la pantalla del dispositivo. | Denisse |
-|  HU05  | Yo como usuario, requiero que la camisa integre un sensor que sea capaz de medir mi temperatura corporal para llevar un monitoreo de la misma. | Debe | 70/100 | El usuario podrá medir la temperatura por medio de un sensor y este dato podrá ser visualizado en la pantalla del dispositivo. |Luis Gustavo|
-|  HU06  | Yo como usuario, requiero que la camisa pueda monitorear las pulsaciones de mi corazón para llevar un monitoreo de mi ritmo cardíaco. | Puede | 80/100 | El sensor será integrado en una camisa que le permita tener mejor acceso y control sobre su ritmo cardíaco, al procesar los datos recibidos del pulsómetro. | Fatima |
-|  HU07  | Yo como usuario, requiero una interfaz amigable para manejar intuitivamente el dispositivo. | Podria hacerse | 100/100 | Se podrá manejar el estado de su cuerpo y acciones del dispositivo desde una pantalla ESP32. |Luis Gustavo|
-|  HU08  | Yo como usuario, requiero poder detener el sonido de alerta para que no llegue a ser molesto.| Debe | 30/100 | Se podrá detener la alerta de un objeto cercano por medio de un botón integrado en el dispositivo de la muñeca. |Diego|
+|  HU01  | Yo como persona con problemas de visión, requiero saber la distancia a la que están los objetos cercanos para tenerme precaución al moverme en mi entorno. | Debe | 2 | El usuario tendrá conocimiento de si un objeto se encuentra cerca de él por medio de un sensor ultrasónico. | Denisse  |
+|  HU02  | Yo como persona con limitaciones visuales, requiero tener un apoyo auditivo para que me sirva de ayuda al momento de estar en contacto cercano con otros objetos. | Debe | 1 | El usuario tendrá conocimiento de si un objeto se encuentra cerca de él por medio de un sonido transmitido por el buzzer, que sonará más rápido a medida que el usuario más se aproxime. | Fatima |
+|  HU03  | Yo como persona con dificultades visuales, requiero de una cámara que trasmita la imagen a la pantalla, para poder ver lo que esta lejos de mi y evitar posibles accidentes. | Puede | 5 | El usuario podrá observar los objetos que no logra visualizar nítidamente por medio de un dispositivo que le transmita la imagen a la pantalla. | Diego |
+|  HU04  | Yo como persona con problemas visuales y de salud, requiero poder medir la humedad de mi persona para tener un correcto monitoreo. | Debe | 3 | El usuario podrá medir la humedad por medio de un sensor y este dato podrá ser visualizado en la pantalla del dispositivo. | Denisse |
+|  HU05  | Yo como persona con problemas de visión y de salud, requiero que la camisa integre un sensor que sea capaz de medir mi temperatura corporal para llevar un monitoreo de la misma. | Debe | 3 | El usuario podrá medir la temperatura por medio de un sensor y este dato podrá ser visualizado en la pantalla del dispositivo. |Luis Gustavo|
+|  HU06  | Yo como persona con dificultades visuales y de salud, requiero que la camisa pueda monitorear las pulsaciones de mi corazón para llevar un monitoreo de mi ritmo cardíaco. | Puede | 3 | El sensor será integrado en una camisa que le permita tener mejor acceso y control sobre su ritmo cardíaco, al procesar los datos recibidos del pulsómetro. | Fatima |
+|  HU07  | Yo como persona con limitaciones visuales, requiero una interfaz amigable para manejar intuitivamente el dispositivo. | Podria hacerse | 5 | Se podrá manejar el estado de su cuerpo y acciones del dispositivo desde una pantalla ESP32. |Luis Gustavo|
+|  HU08  | Yo como persona con problemas de visión, requiero poder detener el sonido de alerta para que no llegue a ser molesto.| Debe | 1 | Se podrá detener la alerta de un objeto cercano por medio de un botón integrado en el dispositivo de la muñeca. |Diego|
+
 
 ## Prototipo en dibujo
 <div align="center">
