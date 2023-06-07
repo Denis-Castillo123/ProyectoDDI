@@ -16,7 +16,7 @@ Ma. Angelica Castillo Sánchez
 | No. | Componente | Descripción | Imagen | Costo | Cantidad |
 |-----|------------|-------------|--------|-------|----------|
 |1|Raspberry Pi 4| computador de placa única (SBC, por sus siglas en inglés) desarrollado por la Fundación Raspberry Pi. Se trata de la cuarta generación de la serie de dispositivos Raspberry Pi, y ha sido diseñado para ser una plataforma versátil y de bajo costo para una amplia gama de aplicaciones.|<img src="https://m.media-amazon.com/images/I/41cn6diLE0L.jpg" width="200px">|$2500.00|1| 
-|2|ESP32 LVGL|ESP32 con pantalla táctil integrada|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/e9bc176f-d8a6-4b13-ada8-a6d88dc48c10" width="200px">|$168.53|1| 
+|2|ESP32 LVGL|Es una combinación del microcontrolador ESP32 y la biblioteca gráfica LVGL. El ESP32 es un microcontrolador de bajo consumo de energía y alto rendimiento desarrollado por Espressif Systems. LVGL es una biblioteca gráfica de código abierto diseñada para crear interfaces de usuario interactivas y atractivas en sistemas embebidos.|<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/87044529/e9bc176f-d8a6-4b13-ada8-a6d88dc48c10" width="200px">|$168.53|1| 
 |3|ESP32Cam|ESP32 con cámara integrada|<img src="https://hetpro-store.com/images/detailed/17/ESP32-CAM-imagen2.jpg" width="200px">|$172.47|1|
 |4|Sensor temperatura y humedad|Sensor con doble funcionalidad para medir la temperatura y la humedad del cuerpo|<img src="https://m.media-amazon.com/images/I/415HFTvEImL._AC_SX679_.jpg" width="200px">|$69.00|1| 
 |5|Buzzer|Actuador para alertar al usuario|<img src="https://vystronic.com/wp-content/uploads/2020/10/piezo-buzzer-324x324.jpg" width="200px">|$50.00|1|
