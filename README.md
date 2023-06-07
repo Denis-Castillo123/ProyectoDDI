@@ -9,6 +9,9 @@ El dispositivo consiste como una solución deseñada para ser incorporada a un p
 - Karla Denisse Aguilar Castillo
 - Fatima Natalia Ruiz Rivera
 
+## Beneficiario
+Ma. Angelica Castillo Sánchez
+
 # Hardware
 | No. | Componente | Descripción | Imagen | Costo | Cantidad |
 |-----|------------|-------------|--------|-------|----------|
@@ -81,6 +84,3 @@ El dispositivo consiste como una solución deseñada para ser incorporada a un p
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/31353217-ff58-4919-96a7-117c39e1daa0" width="500px">
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/6dc639d3-4a72-4cef-a499-fc61fcc50229" width="500px">
 </div>
-
-## Beneficiario
-Ma. Angelica Castillo Sánchez
