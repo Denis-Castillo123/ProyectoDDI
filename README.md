@@ -28,9 +28,8 @@ Ma. Angelica Castillo Sánchez
 |11|Fotoresistencia|Componente electrónico que varía su resistencia eléctrica en función de la cantidad de luz que recibe.|<img src="https://http2.mlstatic.com/D_NQ_NP_722260-MLM40766811613_022020-O.webp" width="200px">|$57.00|1|
 |12|Led RGB|Tipo de diodo emisor de luz que puede emitir luz en tres colores diferentes: rojo, verde y azul.|<img src="https://www.steren.com.mx/media/catalog/product/cache/b69086f136192bea7a4d681a8eaf533d/image/217268487/led-de-5-mm-rgb.jpg" width="200px">|$5.00|1|
 |13|Motor|Este motor para proyectos o prototipos en los que se necesita transformar la energía eléctrica en un trabajo mecánico. |<img src="https://www.steren.com.mx/media/catalog/product/cache/b69086f136192bea7a4d681a8eaf533d/image/21382df47/motor-de-corriente-directa-tipo-faulhaber.jpg" width="200px">|$49.00|1|
-|14|Fan Blade|Aspas que forman parte de un ventilador o hélice y está diseñado para mover el aire.|<img src="" width="200px">|$50.00|1|
+|14|Fan Blade|Aspas que forman parte de un ventilador o hélice y está diseñado para mover el aire.|<img src="https://m.media-amazon.com/images/I/513NRGTQl0S._AC_UF350,350_QL80_.jpg" width="200px">|$50.00|1|
 |15|Sensor con acelerómetro y giroscopio|Mide la aceleración y la velocidad angular de un objeto en movimiento. Se utiliza en diferentes aplicaciones, como en dispositivos móviles para detectar movimientos y orientación, en sistemas de navegación inercial, en robots y vehículos autónomos.|<img src="https://www.steren.com.mx/media/catalog/product/cache/b69086f136192bea7a4d681a8eaf533d/image/216213368/sensor-con-acelerometro-y-giroscopio.jpg" width="200px">|$99.00|1|
-|16|||<img src="" width="200px">|$89.00|1|
 
 ## Tabla de Software utilizado
 <div align="center">
