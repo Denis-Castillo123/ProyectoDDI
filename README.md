@@ -55,7 +55,7 @@ Ma. Angelica Castillo Sánchez
 |  HU06  | Yo como persona con dificultades visuales y de salud, requiero que la camisa pueda monitorear las pulsaciones de mi corazón para llevar un monitoreo de mi ritmo cardíaco| Puede | 3 | El sensor será integrado en una camisa que le permita tener mejor acceso y control sobre su ritmo cardíaco, al procesar los datos recibidos del pulsómetro.| Fatima | Sprint 1 |
 |  HU07  | Yo como persona con limitaciones visuales, requiero una interfaz amigable para manejar intuitivamente el dispositivo. | Podria hacerse | 5 | Se podrá manejar el estado de su cuerpo y acciones del dispositivo desde una pantalla ESP32. |Luis Gustavo| Sprint 1 |
 |  HU08  | Yo como persona con problemas de visión, requiero poder detener la vibración de alerta para que no llegue a ser molesto.| Debe | 1 | Se podrá detener la alerta de un objeto cercano por medio de un botón integrado en el dispositivo de la muñeca. | Diego | Sprint 2 |
-|  HU09  | Yo como persona con problemas de visión, requiero que un componente que sea capaz de medir cuando estoy acelerando o caminando demasiado rápido.| Debe | 1 | Se podra hacer la medición al momento que el usuario aumente su velocidad | Diego | Sprint 2 |
+|  HU09  | Yo como persona con problemas de visión, requiero que un componente que sea capaz de medir cuando estoy acelerando o caminando demasiado rápido.| Debe | 5 | Se podra hacer la medición al momento que el usuario aumente su velocidad | Diego | Sprint 2 |
 
 
 ## Prototipo en dibujo
