@@ -91,14 +91,15 @@ Ma. Angelica Castillo Sánchez
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/6dc639d3-4a72-4cef-a499-fc61fcc50229" width="500px">
 </div>
 
-#Evidenicas de la ejecución sprint 1
-##Implementación de la base de datos en node-red
+# Evidenicas de la ejecución sprint 1
+## Implementación de la base de datos en node-red
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/bfa15343-02c2-48f0-99ff-7ba085f506f5" width="500px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/55650800-b2d6-445a-9fbb-f54c8a34de4a" width="500px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/e89adf21-4740-405c-9441-7d23572b6830" width="500px">
 </div>
-##Lecturas de en consola de la pantalla ESP32
+
+## Lecturas de en consola de la pantalla ESP32
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/86983c5b-c862-49f7-b52b-e8e2cc74d4e0" width="500px">
 </div>
@@ -107,7 +108,7 @@ Ma. Angelica Castillo Sánchez
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/d088ded0-81ed-4b0d-931a-9da96bc30b4b" width="500px">
 </div>
 
-##Mostrando los valores en la pantalla
+## Mostrando los valores en la pantalla
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/80dbcc97-81f4-4880-8d2c-355e2520a1b6" width="500px">
 </div>
