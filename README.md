@@ -55,7 +55,7 @@ Ma. Angelica Castillo Sánchez
 |  HU06  | Yo como persona con limitaciones visuales, requiero una interfaz amigable para manejar intuitivamente el dispositivo del antebrazo. | Podria hacerse | 5 | Se podrá visualizar el estado físico/salud del usuario por medio de mensajes en la pantalla integrada del dispositivo en el antebrazo. |Luis Gustavo| Sprint 1 |
 |  HU07  | Yo como persona con problemas de visuales, requiero un medio para detener el sonido de alerta del dispositivo del antebrazo.| Debe | 1 | Se podrá detener la alerta del dispositivo por medio de un botón integrado. | Diego | Sprint 2 |
 |  HU08  | Yo como persona con problemas de visuales, requiero que un componente que sea capaz de medir cuando estoy acelerando o caminando demasiado rápido.| Debe | 5 | Se podrá visualizar la medición de la caminata del usuario por medio de mensajes en la pantalla integrada en el dispositivo del antebrazo. | Diego | Sprint 2 |
-|  HU09 | Yo como persona con problemas de visuales, requiero que tener un medio visual donde se vea reflejada la temperatura ambiental| Debe | 5 | Se podrá visualizar la medición de la temperatura del ambiente por medio de mensajes en la pantalla integrada en el dispositivo del antebrazo. | Diego | Sprint 2 |
+|  HU09 | Yo como persona con problemas de visuales, requiero que tener un medio visual donde se vea reflejada la temperatura ambiental| Debe | 5 | Se podrá visualizar la medición de la temperatura del ambiente por medio de mensajes en la pantalla integrada en el dispositivo del antebrazo. | Luis Gustavo | Sprint 2 |
 
 
 ## Prototipo en dibujo
