@@ -113,7 +113,7 @@ Ma. Angelica Castillo Sánchez
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/80dbcc97-81f4-4880-8d2c-355e2520a1b6" width="500px">
 </div>
 
-##VIDEO DEMOSTRATIVO DEL SPRINT 1
+## VIDEO DEMOSTRATIVO DEL SPRINT 1
 https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drivesdk
 
 
