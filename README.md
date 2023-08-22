@@ -115,8 +115,6 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 # Evidenicas de la ejecución sprint 2
 ## Diseño en 3D de las carcasas 
-
-<img alt="Static Badge" src="https%3A%2F%2Fimg.shields.io%2Fbadge%2F&style=plastic&color=green">
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/f63620fb-fe46-4a99-8719-5669f8bbfab7" width="500px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/ae8c2bc0-e7fa-4502-a193-c99ff9c5df31" width="500px">
@@ -125,8 +123,14 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 </div>
 
 ## Imagenes del dispositivo en ejecución 
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/142c7c65-724a-46e4-814e-7c1ba408dcd1" width="500px">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/d90ecdcc-eb7e-44c8-82bc-9b5f81cceb2d" width="500px">
+</div>
+
 
 ## Despliegue de Monitoreo y Control desde Dashboard 
+![Imagen de WhatsApp 2023-08-22 a las 14 28 34]()
 
 ## Implementación de Sensores y Actuadores
 
