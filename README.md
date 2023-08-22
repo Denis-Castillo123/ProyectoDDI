@@ -75,13 +75,13 @@ Jesús Fernando Gonzalez Pedroza
 </div>
 
   
-## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes brazo
+## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes Brazo
 <div align="center">
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/3dcf53aa-fd36-4a37-ad25-9885c3796c7c" width="500px">
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/f1f90a1e-3e43-42eb-8927-342460d1c484" width="500px">
 </div>
 
-## Prototipo 3D Mano
+## Prototipo 3D Brazo
 <div align="center">
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b894028d-664e-42f8-9651-653f145fb855" width="500px">
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/0e2fd35e-ed07-4c82-ab0b-29890a294875" width="500px">
