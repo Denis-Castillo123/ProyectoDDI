@@ -132,6 +132,26 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/d90ecdcc-eb7e-44c8-82bc-9b5f81cceb2d" width="500px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/2db7d694-8d06-452a-83c3-b3209ea49a8f" width="500px">
 </div>
+### Dispositivo del foto a la habitación
+
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/12203da7-77cb-4ea5-b973-d1052b453833" width="500px">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b03acb35-3c82-4efa-b614-6c30b347b2cd" width="500px">
+</div>
+
+### Dispositivo del pecho
+
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/12c9423c-7103-4f04-aaa7-bfb39527e386" width="500px">
+<img src="" width="500px">
+</div>
+
+### Dispositivo del brazo
+
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/9b0a614a-f9f9-4811-853d-496eedd186cb" width="500px">
+<img src="" width="500px">
+</div>
 
 ## Despliegue de Monitoreo y Control desde Dashboard 
 
