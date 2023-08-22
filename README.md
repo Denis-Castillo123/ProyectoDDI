@@ -10,7 +10,7 @@ El dispositivo consiste como una solución deseñada para ser incorporada a un p
 - Fatima Natalia Ruiz Rivera
 
 ## Beneficiario
-Ma. Angelica Castillo Sánchez
+Jesús Fernando Gonzalez Pedroza
 
 # Hardware
 | No. | Componente | Descripción | Imagen | Costo | Cantidad | 
@@ -137,6 +137,9 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 ## Uso de Base de Datos
 
-## VIDEO DEMOSTRATIVO DEL SPRINT 2
-
+## VIDEO DEL SPRINT 2
+### Video del beneficiario
+https://drive.google.com/file/d/1cfEnb1IhoRyG9T4VkEn3uEBwskRIydiF/view?usp=drive_link
+### Video demostrativo
+https://drive.google.com/file/d/1chnvIdxckCr2v5xHA4EuY7Q-IPKVBz1k/view?usp=drive_link
 
