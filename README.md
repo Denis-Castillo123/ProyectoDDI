@@ -127,6 +127,14 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 ## Imagenes del dispositivo en ejecución 
 
+## Despliegue de Monitoreo y Control desde Dashboard 
+
+## Implementación de Sensores y Actuadores
+
+## Comunicación MQTT entre Dispositivos
+
+## Uso de Base de Datos
+
 ## VIDEO DEMOSTRATIVO DEL SPRINT 2
 
 
