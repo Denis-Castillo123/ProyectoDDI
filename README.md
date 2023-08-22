@@ -103,7 +103,7 @@ Ma. Angelica Castillo Sánchez
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/86983c5b-c862-49f7-b52b-e8e2cc74d4e0" width="500px">
 </div>
-##Captando los valores de los sensore
+##Captando los valores de los sensores
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/d088ded0-81ed-4b0d-931a-9da96bc30b4b" width="500px">
 </div>
@@ -115,5 +115,13 @@ Ma. Angelica Castillo Sánchez
 
 ## VIDEO DEMOSTRATIVO DEL SPRINT 1
 https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drivesdk
+Captura de pantalla 2023-08-21 175825.png
 
-
+# Evidenicas de la ejecución sprint 2
+## Diseño en 3D de las carcasas 
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/Captura de pantalla 2023-08-21 175825.png" width="500px">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/Captura de pantalla 2023-08-21 175908.png" width="500px">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/Captura de pantalla 2023-08-21 175926.png" width="500px">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/Captura de pantalla 2023-08-21 180000.png" width="500px">
+</div>
