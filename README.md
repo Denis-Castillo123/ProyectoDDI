@@ -64,7 +64,7 @@ Jesús Fernando Gonzalez Pedroza
 
 ## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes Pecho
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/1e271413-f5ae-4997-8542-3185af5aac73" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/1e271413-f5ae-4997-8542-3185af5aac73" width="200px">
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b4782cce-452e-4104-931c-e07a67752045" width="500px">
 </div>
 
