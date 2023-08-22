@@ -115,15 +115,16 @@ Ma. Angelica Castillo Sánchez
 
 ## VIDEO DEMOSTRATIVO DEL SPRINT 1
 https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drivesdk
-Captura de pantalla 2023-08-21 175825.png
 
 # Evidenicas de la ejecución sprint 2
 ## Diseño en 3D de las carcasas 
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/f63620fb-fe46-4a99-8719-5669f8bbfab7" width="500px">
-  
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/ae8c2bc0-e7fa-4502-a193-c99ff9c5df31" width="500px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/e1f39e4e-5d2a-429c-b8af-58b23322e56d" width="500px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/9f94ff6b-b387-4957-b6e0-4466fc06d59f" width="500px">
 </div>
+
+## VIDEO DEMOSTRATIVO DEL SPRINT 2
+
 
