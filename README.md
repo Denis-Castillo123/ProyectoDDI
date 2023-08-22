@@ -136,9 +136,12 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/f2aca177-21fc-4de5-b192-4793a2e62387" width="500px">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/9f3b66bd-899b-45ae-b4ef-a029d64ef38f" width="500px">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/3fd484f7-d01b-4443-9578-cc2a66d33ad4" width="500px">
 </div>
 
 ## Implementación de Sensores y Actuadores
+
 
 ## Comunicación MQTT entre Dispositivos
 
