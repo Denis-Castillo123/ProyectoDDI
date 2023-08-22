@@ -64,15 +64,16 @@ Jesús Fernando Gonzalez Pedroza
 
 ## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes Pecho
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/cc053f6d-75a4-4e29-b24e-6935626ef53c" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/7b03106e-432d-4a2d-bdd4-83b202fc4ebc" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/1e271413-f5ae-4997-8542-3185af5aac73" width="200px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b4782cce-452e-4104-931c-e07a67752045" width="500px">
 </div>
 
 ## Prototipo 3D Pecho
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b894028d-664e-42f8-9651-653f145fb855" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/0e2fd35e-ed07-4c82-ab0b-29890a294875" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/cc053f6d-75a4-4e29-b24e-6935626ef53c" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/7b03106e-432d-4a2d-bdd4-83b202fc4ebc" width="500px">
 </div>
+
   
 ## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes brazo
 <div align="center">
@@ -82,9 +83,10 @@ Jesús Fernando Gonzalez Pedroza
 
 ## Prototipo 3D Mano
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/1e271413-f5ae-4997-8542-3185af5aac73" width="200px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b4782cce-452e-4104-931c-e07a67752045" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b894028d-664e-42f8-9651-653f145fb855" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/0e2fd35e-ed07-4c82-ab0b-29890a294875" width="500px">
 </div>
+
 
 # Evidenicas de la ejecución sprint 1
 ## Implementación de la base de datos en node-red
