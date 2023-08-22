@@ -142,6 +142,10 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 ## Comunicación MQTT entre Dispositivos
 
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/fd6d58a7-45f2-44d4-8655-9030f4610b5c" width="500px">
+</div>
+
 ## Uso de Base de Datos
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/4c31d3ba-da5c-4f53-aee9-e8980c6e982d" width="500px">
