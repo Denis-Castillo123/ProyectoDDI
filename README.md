@@ -64,8 +64,8 @@ Jesús Fernando Gonzalez Pedroza
 
 ## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes Pecho
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/90db7be4-1631-4bbb-a28c-d960ddf96319" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/48e6a6db-3f4e-4f5a-bce8-8d065e2c7e91" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/1e271413-f5ae-4997-8542-3185af5aac73" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b4782cce-452e-4104-931c-e07a67752045" width="500px">
 </div>
 
 ## Prototipo 3D Pecho
@@ -76,8 +76,8 @@ Jesús Fernando Gonzalez Pedroza
   
 ## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes brazo
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/c2a203fc-805f-46ad-bd42-0a952b2cc83c" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/95ce5c06-46f2-4b61-8d0f-9dc48c0aa510" width="500px">
+  <img src="" width="500px">
+  <img src="" width="500px">
 </div>
 
 
