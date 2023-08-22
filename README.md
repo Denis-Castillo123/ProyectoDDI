@@ -41,7 +41,7 @@ Jesús Fernando Gonzalez Pedroza
 | 07 | RPi.GPIO | 0022 | Librería para sensor ultrasonico (licencia libre) |
 | 08 | VL53L0X  | 1.0.4| Líbreria python para el manejo del sensor lasér para distancia VL53L0X |
 | 09 | mpu6050  | 1.0.1| Líbreria python para el manejo del sensor acelerometro mpu6050 |
-| 10 | openHASP | 0.7.o-rc4 | Reimplementación del boceto HASwitchPlate optimizado con LVGL |
+| 10 | openHASP | 0.7.0-rc4 | Reimplementación del boceto HASwitchPlate optimizado con LVGL |
 </div>
 
 ## Tabla de historias de usuario
