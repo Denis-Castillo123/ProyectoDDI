@@ -130,12 +130,18 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 
 ## Despliegue de Monitoreo y Control desde Dashboard 
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/f2aca177-21fc-4de5-b192-4793a2e62387" width="500px">
+</div>
 
 ## Implementación de Sensores y Actuadores
 
 ## Comunicación MQTT entre Dispositivos
 
 ## Uso de Base de Datos
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/4c31d3ba-da5c-4f53-aee9-e8980c6e982d" width="500px">
+</div>
 
 ## VIDEO DEL SPRINT 2
 ### Video del beneficiario
