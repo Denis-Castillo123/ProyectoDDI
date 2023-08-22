@@ -126,6 +126,8 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/10d605f9-5ebf-415d-aa19-fba6e562efe7" width="200px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/142c7c65-724a-46e4-814e-7c1ba408dcd1" width="200px">
+</div>
+<div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/d90ecdcc-eb7e-44c8-82bc-9b5f81cceb2d" width="500px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/2db7d694-8d06-452a-83c3-b3209ea49a8f" width="500px">
 </div>
