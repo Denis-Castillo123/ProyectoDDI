@@ -64,8 +64,8 @@ Jesús Fernando Gonzalez Pedroza
 
 ## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes Pecho
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/1e271413-f5ae-4997-8542-3185af5aac73" width="200px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b4782cce-452e-4104-931c-e07a67752045" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/cc053f6d-75a4-4e29-b24e-6935626ef53c" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/7b03106e-432d-4a2d-bdd4-83b202fc4ebc" width="500px">
 </div>
 
 ## Prototipo 3D Pecho
@@ -82,8 +82,8 @@ Jesús Fernando Gonzalez Pedroza
 
 ## Prototipo 3D Mano
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/cc053f6d-75a4-4e29-b24e-6935626ef53c" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/7b03106e-432d-4a2d-bdd4-83b202fc4ebc" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/1e271413-f5ae-4997-8542-3185af5aac73" width="200px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b4782cce-452e-4104-931c-e07a67752045" width="500px">
 </div>
 
 # Evidenicas de la ejecución sprint 1
