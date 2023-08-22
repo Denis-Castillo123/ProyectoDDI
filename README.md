@@ -141,7 +141,9 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 </div>
 
 ## Implementación de Sensores y Actuadores
-
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/fd6d58a7-45f2-44d4-8655-9030f4610b5c" width="500px">
+</div>
 
 ## Comunicación MQTT entre Dispositivos
 
