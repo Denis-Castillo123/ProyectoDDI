@@ -118,7 +118,8 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 # Evidenicas de la ejecución sprint 2
 ## Diseño en 3D de las carcasas 
-{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" }
+
+<img alt="Static Badge" src="https://img.shields.io/endpoint?url=%7B%20%22schemaVersion%22%3A%201%2C%20%22label%22%3A%20%22golii%22%2C%20%22message%22%3A%20%22sweet%20world%22%2C%20%22color%22%3A%20%22green%22%20%7D">
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/f63620fb-fe46-4a99-8719-5669f8bbfab7" width="500px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/ae8c2bc0-e7fa-4502-a193-c99ff9c5df31" width="500px">
