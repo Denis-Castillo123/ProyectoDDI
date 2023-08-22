@@ -122,12 +122,12 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/9f94ff6b-b387-4957-b6e0-4466fc06d59f" width="500px">
 </div>
 
-## Imagenes del dispositivo en ejecución 
+## Imagenes del dispositivos
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/142c7c65-724a-46e4-814e-7c1ba408dcd1" width="200px">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/d90ecdcc-eb7e-44c8-82bc-9b5f81cceb2d" width="500px">
+<img src="[https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/d90ecdcc-eb7e-44c8-82bc-9b5f81cceb2d](https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/2db7d694-8d06-452a-83c3-b3209ea49a8f)" width="500px">
 </div>
-
 
 ## Despliegue de Monitoreo y Control desde Dashboard 
 <div align="center">
