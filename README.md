@@ -125,6 +125,8 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/9f94ff6b-b387-4957-b6e0-4466fc06d59f" width="500px">
 </div>
 
+## Imagenes del dispositivo en ejecución 
+
 ## VIDEO DEMOSTRATIVO DEL SPRINT 2
 
 
