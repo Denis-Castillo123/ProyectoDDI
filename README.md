@@ -76,10 +76,9 @@ Jesús Fernando Gonzalez Pedroza
   
 ## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes brazo
 <div align="center">
-  <img src="" width="500px">
-  <img src="" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/3dcf53aa-fd36-4a37-ad25-9885c3796c7c" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/f1f90a1e-3e43-42eb-8927-342460d1c484" width="500px">
 </div>
-
 
 ## Prototipo 3D Mano
 <div align="center">
@@ -140,9 +139,7 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 </div>
 
 ## Implementación de Sensores y Actuadores
-<div align="center">
-<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/fd6d58a7-45f2-44d4-8655-9030f4610b5c" width="500px">
-</div>
+El código fuente para el desarrollo del dispositivo queda disponible en la siguiente ruta con sus librerías https://github.com/Denis-Castillo123/ProyectoDDI/tree/main/Versi%C3%B3n2
 
 ## Comunicación MQTT entre Dispositivos
 
