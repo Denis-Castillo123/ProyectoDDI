@@ -152,11 +152,16 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 </div>
 
 ## Uso de Base de Datos
+
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/4c31d3ba-da5c-4f53-aee9-e8980c6e982d" width="500px">
 </div>
 
 ## VIDEO DEL SPRINT 2
+### Carta de parte de la empresa
+<div align="center">
+<img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/7998f309-4c81-4713-80ad-1ea7de5db7ff" width="500px">
+</div>
 ### Video del beneficiario
 https://drive.google.com/file/d/1cfEnb1IhoRyG9T4VkEn3uEBwskRIydiF/view?usp=drive_link
 ### Video demostrativo
