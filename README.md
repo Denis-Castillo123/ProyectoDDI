@@ -130,7 +130,6 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 
 ## Despliegue de Monitoreo y Control desde Dashboard 
-![Imagen de WhatsApp 2023-08-22 a las 14 28 34]()
 
 ## Implementación de Sensores y Actuadores
 
