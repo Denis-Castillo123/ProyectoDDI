@@ -70,24 +70,21 @@ Jesús Fernando Gonzalez Pedroza
 
 ## Prototipo 3D Pecho
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/0fbade4d-0faf-4fad-95a1-f3592e3ecf94" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/1a9fcdf4-7bf6-445c-aabc-59563e8f4487" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/9af0d137-4570-447f-b33d-e817db207864" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/fc1a56fd-8b1f-48b2-b4b7-83124d40c12d" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/b894028d-664e-42f8-9651-653f145fb855" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/0e2fd35e-ed07-4c82-ab0b-29890a294875" width="500px">
 </div>
   
-## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes Mano
+## -----Prototipo en Fitzing Circuito y PCB del Prototipo componentes brazo
 <div align="center">
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/c2a203fc-805f-46ad-bd42-0a952b2cc83c" width="500px">
   <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/95ce5c06-46f2-4b61-8d0f-9dc48c0aa510" width="500px">
 </div>
 
+
 ## Prototipo 3D Mano
 <div align="center">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/274dbb32-d2f2-4ebe-af47-ad778b5c8419" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/d1dced08-4d4a-4536-bbee-1fe16bf0daeb" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/31353217-ff58-4919-96a7-117c39e1daa0" width="500px">
-  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/98179865/6dc639d3-4a72-4cef-a499-fc61fcc50229" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/cc053f6d-75a4-4e29-b24e-6935626ef53c" width="500px">
+  <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/7b03106e-432d-4a2d-bdd4-83b202fc4ebc" width="500px">
 </div>
 
 # Evidenicas de la ejecución sprint 1
