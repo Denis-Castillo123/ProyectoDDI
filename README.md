@@ -144,14 +144,12 @@ https://drive.google.com/file/d/1PbnqZgavAxOrBTrMRkKC7mu2j_codPKj/view?usp=drive
 
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/12c9423c-7103-4f04-aaa7-bfb39527e386" width="500px">
-<img src="" width="500px">
 </div>
 
 ### Dispositivo del brazo
 
 <div align="center">
 <img src="https://github.com/Denis-Castillo123/ProyectoDDI/assets/90869371/9b0a614a-f9f9-4811-853d-496eedd186cb" width="500px">
-<img src="" width="500px">
 </div>
 
 ## Despliegue de Monitoreo y Control desde Dashboard 
